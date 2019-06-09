@@ -5,10 +5,8 @@
             <div class="footer-column"><ul>
           <li>RESOURCES</li>
           <li><a href="/blog">BLOG</a></li>
+          <li><a href="/blog/">FAQ</a></li>
           <li><a href="/blog/">LUFDATEN</a></li>
-
-
-
         </ul></div>
         <div class="footer-column"><ul>
           <li>ORGANIZATION</li>
@@ -17,7 +15,6 @@
               <li><a href="/blog/">SENSORS</a></li>
               <li><a href="/blog/">EVENTS</a></li>
               <li><a href="/blog/">GET INVOLVED</a></li>
-              <li><a href="/blog/">FAQ</a></li>
         </ul>
       </div>
         <div class="footer-column">  
