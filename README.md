@@ -24,3 +24,10 @@ To get the theme running locally, you will need to set up different pages to dis
 * When creating the Home page, in Page Attributes, ensure you select "Front Page" as the template.
 * Navigate to "Settings" > Reading and change "Your homepage displays" - set the Homepage to "Home" and the posts page to "Blog"
 
+# Demo
+
+![](https://i.imgur.com/nrJPaAw.gif)
+
+![](https://i.imgur.com/Xw3Tn0M.png)
+
+
