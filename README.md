@@ -4,6 +4,10 @@
 
 The files in this repo are simply Wordpress theme files which need to be added to a WP-installation.
 
+## Contributing
+
+To contribute to this project, check our current issues - https://github.com/CodeTheCity/CTC16-Webby-Wonders/issues
+
 ## Run the theme locally
 You will need to run a PHP server with either WAMP or MAMP, and install wordpress locally.  Follow these guides for info:
 
