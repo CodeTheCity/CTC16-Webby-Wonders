@@ -1,3 +1,5 @@
+<?php /* Template Name: Posts Page */ ?>
+
 <?php get_header(); ?>
 <?php include 'site_header.php';?>
 
