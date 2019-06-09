@@ -24,7 +24,7 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="images/pic01.jpg" alt="" />
+										<img src="<?php echo get_bloginfo( 'template_directory' );?>/images/sensors-map.png" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">Sensors</a></h3>
@@ -33,7 +33,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/pic02.jpg" alt="" />
+										<img src="<?php echo get_bloginfo( 'template_directory' );?>/images/sensors-build.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">Events</a></h3>
